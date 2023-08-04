@@ -1,5 +1,5 @@
 # Tetris
-A vanilla javascript game
+A vanilla javascript game. Source code: kubowania.
 
 <h2>Brief</h2>
  
